@@ -1,0 +1,25 @@
+var cars=[
+    "B.M.W",
+    "Ford",
+    "Audi",
+    "Alfa Romeo",
+    "Buick",
+    "Cadillac",
+    "Ferrari",
+    "Fiat",
+    "Acura",
+    "Aston Martin",
+    "Bentley",
+    "Chrysler",
+    "Dodge",
+    "Mazda",
+    "Bugatti",
+    "Fisker",
+    "Jeep",
+    "Lamborghini",
+    "Maserati",
+    "Porshe",
+    "Renault",
+    "Chevrolet"
+];
+document.getElementById("a").innerHTML=cars.join(", ")
